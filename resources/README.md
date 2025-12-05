@@ -17,9 +17,9 @@ This directory contains shared resources, templates, and utilities that can be u
 - **Documentation Templates** - README, API docs, and architecture decision records
 
 ### Monitoring & Operations
-- **Dashboard Templates** - Grafana dashboards for common metrics
-- **Alert Rules** - Prometheus alerting rules
-- **Log Parsing** - Fluentd and Logstash configurations
+- ![Grafana](../images/logos/grafana.png) **Dashboard Templates** - Grafana dashboards for common metrics
+- ![Prometheus](../images/logos/prometheus.png) **Alert Rules** - Prometheus alerting rules
+- ![Fluentd](../images/logos/fluentd.png) **Log Parsing** - Fluentd and Logstash configurations
 - **Backup Scripts** - Database and file backup automation
 
 ## 🛠️ Quick Start Templates

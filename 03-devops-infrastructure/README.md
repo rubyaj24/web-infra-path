@@ -13,13 +13,13 @@ This phase covers the essential DevOps practices and infrastructure tools needed
 
 ## 🐳 Containerization
 
-### Docker Fundamentals
+### ![Docker](../images/logos/docker.svg) Docker Fundamentals
 - **Docker Basics** - Containerizing applications
 - **Multi-stage Builds** - Optimizing image sizes
 - **Docker Compose** - Local multi-container development
 - **Registry Management** - Image storage and distribution
 
-### Kubernetes Orchestration
+### ![Kubernetes](../images/logos/kubernetes.svg) Kubernetes Orchestration
 - **Pod and Service Management** - Basic workload deployment
 - **ConfigMaps and Secrets** - Configuration management
 - **Ingress Controllers** - Traffic routing and SSL termination
@@ -33,17 +33,17 @@ This phase covers the essential DevOps practices and infrastructure tools needed
 
 ## 🔄 CI/CD Pipelines
 
-### GitHub Actions
+### ![GitHub Actions](../images/logos/github-actions.png) GitHub Actions
 - **Workflow Automation** - Build, test, and deploy automation
 - **Matrix Builds** - Multi-environment testing
 - **Secrets Management** - Secure credential handling
 - **Release Management** - Automated versioning and releases
 
 ### Alternative CI/CD Tools
-- **Jenkins** - Self-hosted automation server
-- **GitLab CI** - Integrated DevOps platform
-- **Azure DevOps** - Microsoft's complete DevOps solution
-- **CircleCI** - Cloud-native continuous integration
+- ![Jenkins](../images/logos/jenkins.svg) **Jenkins** - Self-hosted automation server
+- ![GitLab CI](../images/logos/gitlab.svg) **GitLab CI** - Integrated DevOps platform
+- ![Azure DevOps](../images/logos/azure-app-service.svg) **Azure DevOps** - Microsoft's complete DevOps solution
+- ![CircleCI](../images/logos/circleci.svg) **CircleCI** - Cloud-native continuous integration
 
 ### Pipeline Best Practices
 - **Blue-Green Deployments** - Zero-downtime deployments
@@ -54,28 +54,28 @@ This phase covers the essential DevOps practices and infrastructure tools needed
 ## ☁️ Cloud Platforms
 
 ### Amazon Web Services (AWS)
-- **EC2** - Virtual machines and auto-scaling groups
-- **ECS/EKS** - Container orchestration services
-- **RDS** - Managed relational databases
-- **S3** - Object storage and CDN integration
-- **Lambda** - Serverless computing
-- **CloudFormation** - Infrastructure as code
+- ![EC2](../images/logos/aws-ec2.svg) **EC2** - Virtual machines and auto-scaling groups
+- ![ECS](../images/logos/aws-ec2.svg) **ECS/EKS** - Container orchestration services
+- ![RDS](../images/logos/aws-ec2.svg) **RDS** - Managed relational databases
+- ![S3](../images/logos/aws-ec2.svg) **S3** - Object storage and CDN integration
+- ![Lambda](../images/logos/aws-ec2.svg) **Lambda** - Serverless computing
+- ![CloudFormation](../images/logos/aws-ec2.svg) **CloudFormation** - Infrastructure as code
 
 ### Microsoft Azure
-- **App Service** - Web application hosting
-- **AKS** - Azure Kubernetes Service
-- **Azure SQL** - Managed database services
-- **Blob Storage** - Object storage solution
-- **Functions** - Serverless compute
-- **ARM Templates** - Infrastructure automation
+- ![Azure App Service](../images/logos/azure-app-service.png) **App Service** - Web application hosting
+- ![AKS](../images/logos/azure-aks.png) **AKS** - Azure Kubernetes Service
+- ![Azure SQL](../images/logos/azure-sql.png) **Azure SQL** - Managed database services
+- ![Azure Blob](../images/logos/azure-blob.png) **Blob Storage** - Object storage solution
+- ![Azure Functions](../images/logos/azure-functions.png) **Functions** - Serverless compute
+- ![ARM Templates](../images/logos/azure-arm.png) **ARM Templates** - Infrastructure automation
 
 ### Google Cloud Platform (GCP)
-- **Compute Engine** - Virtual machine instances
-- **GKE** - Google Kubernetes Engine
-- **Cloud SQL** - Managed relational databases
-- **Cloud Storage** - Object storage service
-- **Cloud Functions** - Event-driven serverless
-- **Deployment Manager** - Infrastructure deployment
+- ![Compute Engine](../images/logos/gcp-compute.png) **Compute Engine** - Virtual machine instances
+- ![GKE](../images/logos/gcp-gke.png) **GKE** - Google Kubernetes Engine
+- ![Cloud SQL](../images/logos/gcp-sql.png) **Cloud SQL** - Managed relational databases
+- ![Cloud Storage](../images/logos/gcp-storage.png) **Cloud Storage** - Object storage service
+- ![Cloud Functions](../images/logos/gcp-functions.png) **Cloud Functions** - Event-driven serverless
+- ![Deployment Manager](../images/logos/gcp-deployment.png) **Deployment Manager** - Infrastructure deployment
 
 ## 📊 Monitoring & Observability
 
@@ -98,16 +98,16 @@ This phase covers the essential DevOps practices and infrastructure tools needed
 
 ## 🏗️ Infrastructure as Code
 
-### Terraform
+### ![Terraform](../images/logos/terraform.png) Terraform
 - **Resource Management** - Multi-cloud infrastructure provisioning
 - **State Management** - Infrastructure state tracking
 - **Modules** - Reusable infrastructure components
 - **Workspaces** - Environment separation
 
 ### Alternative IaC Tools
-- **Pulumi** - Modern infrastructure as code
-- **CDK** - Cloud Development Kit (AWS)
-- **Ansible** - Configuration management and automation
+- ![Pulumi](../images/logos/pulumi.png) **Pulumi** - Modern infrastructure as code
+- ![CDK](../images/logos/aws-cdk.png) **CDK** - Cloud Development Kit (AWS)
+- ![Ansible](../images/logos/ansible.png) **Ansible** - Configuration management and automation
 
 ## 📚 Learning Path
 

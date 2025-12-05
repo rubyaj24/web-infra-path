@@ -18,6 +18,8 @@ web-infra-path/
 ├── 02-development/               # Development frameworks & databases
 ├── 03-devops-infrastructure/     # CI/CD, containers, cloud services
 ├── 04-deployment-scaling/        # Load balancing, optimization, security
+├── images/                       # Tool logos and visual assets
+│   └── logos/                    # PNG logos for all mentioned tools
 └── resources/                    # Shared templates and utilities
 ```
 
@@ -32,18 +34,18 @@ web-infra-path/
 [📺 YouTube Resources](./01-planning-architecture/youtube-links-system-design.md)
 
 ### Phase 2: Development
-- Backend frameworks (Node.js, Django, FastAPI)
-- Database setup and ORMs
-- API development and testing
-- Frontend frameworks and state management
+- Backend frameworks (![Node.js](./images/logos/express.svg) Node.js, ![Django](./images/logos/django.svg) Django, ![FastAPI](./images/logos/fastapi.svg) FastAPI)
+- ![PostgreSQL](./images/logos/postgresql.svg) Database setup and ORMs
+- ![Postman](./images/logos/postman.svg) API development and testing
+- Frontend frameworks (![React](./images/logos/react.svg) React, ![Vue.js](./images/logos/vue.svg) Vue.js) and state management
 
 [📺 YouTube Resources](./02-development/youtube-links-development.md)
 
 ### Phase 3: DevOps & Infrastructure
-- Docker and containerization
-- Kubernetes orchestration
-- CI/CD pipelines (GitHub Actions, Jenkins)
-- Cloud platforms (AWS, Azure, GCP)
+- ![Docker](./images/logos/docker.svg) Docker and containerization
+- ![Kubernetes](./images/logos/kubernetes.svg) Kubernetes orchestration
+- ![GitHub Actions](./images/logos/github-actions.svg) CI/CD pipelines (GitHub Actions, Jenkins)
+- Cloud platforms (![AWS](./images/logos/aws-ec2.svg) AWS, ![Azure](./images/logos/azure-app-service.svg) Azure, ![GCP](./images/logos/gcp-compute.svg) GCP)
 
 [📺 YouTube Resources](./03-devops-infrastructure/youtube-links-devops.md)
 

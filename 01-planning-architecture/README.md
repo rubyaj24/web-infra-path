@@ -13,22 +13,22 @@ The foundation of any successful SaaS product starts with proper planning and ar
 ## 🛠️ Tools & Technologies
 
 ### System Design Tools
-- **Excalidraw** - Simple diagramming for system architecture
-- **Lucidchart** - Professional system design diagrams
-- **Draw.io** - Free diagramming tool with extensive templates
-- **Miro** - Collaborative whiteboarding for team planning
+- ![Excalidraw](../images/logos/excalidraw.png) **Excalidraw** - Simple diagramming for system architecture
+- ![Lucidchart](../images/logos/lucidchart.png) **Lucidchart** - Professional system design diagrams
+- ![Draw.io](../images/logos/drawio.png) **Draw.io** - Free diagramming tool with extensive templates
+- ![Miro](../images/logos/miro.png) **Miro** - Collaborative whiteboarding for team planning
 
 ### Database Design
-- **dbdiagram.io** - Database relationship diagrams
-- **MySQL Workbench** - Visual database design
-- **PostgreSQL pgAdmin** - Database administration and design
-- **MongoDB Compass** - NoSQL database design and querying
+- ![dbdiagram](../images/logos/dbdiagram.png) **dbdiagram.io** - Database relationship diagrams
+- ![MySQL Workbench](../images/logos/mysql-workbench.png) **MySQL Workbench** - Visual database design
+- ![PostgreSQL](../images/logos/postgresql.svg) **PostgreSQL pgAdmin** - Database administration and design
+- ![MongoDB](../images/logos/mongodb.svg) **MongoDB Compass** - NoSQL database design and querying
 
 ### API Design
-- **Swagger/OpenAPI** - API specification and documentation
-- **Postman** - API development and testing
-- **Insomnia** - REST and GraphQL client
-- **Stoplight Studio** - API design-first approach
+- ![Swagger](../images/logos/swagger.svg) **Swagger/OpenAPI** - API specification and documentation
+- ![Postman](../images/logos/postman.svg) **Postman** - API development and testing
+- ![Insomnia](../images/logos/insomnia.png) **Insomnia** - REST and GraphQL client
+- ![Stoplight](../images/logos/stoplight.png) **Stoplight Studio** - API design-first approach
 
 ### Requirements & Documentation
 - **Notion** - All-in-one workspace for documentation

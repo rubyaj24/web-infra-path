@@ -55,6 +55,13 @@ This repository is a learning resource for understanding the essential infrastru
 - Real-world use case scenarios for SaaS products
 - Code samples that demonstrate tool integration
 
+### Visual Assets & Branding
+- Tool logos integrated throughout documentation for visual recognition
+- Consistent logo sizing (32x32px) across all documentation
+- Logos stored in `images/logos/` directory with PNG format and transparent backgrounds
+- Download scripts provided for automated logo acquisition
+- Official brand guidelines respected for all tool representations
+
 ## Key Conventions
 
 ### File Naming
