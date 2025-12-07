@@ -67,9 +67,9 @@ This phase focuses on the practical implementation of your SaaS application. You
 
 1. [Backend Development Setup](./backend-development-guide.md)
 2. [Database Integration](./database-integration.md)
-3. [API Development & Testing](./api-development.md)
+3. [API Design & Development](./api-design-guide.md)
 4. [Frontend Development](./frontend-development.md)
-5. [Authentication & Security](./authentication-guide.md)
+5. [Version Control & Git Workflows](./version-control-guide.md)
 6. [Testing Strategies](./testing-strategies.md)
 
 ## 🎥 YouTube Resources
